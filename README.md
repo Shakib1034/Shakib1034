@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Machine Learning applications for Advanced network security and Cloud Computing, and deep-level Data Analysis using Python.
 - 💞️ I’m looking to collaborate on Open-source cybersecurity tools, fraud detection algorithms, and AI-driven threat intelligence projects.
 - 📫 How to reach me You can email me at shakibizzraj@gmail.com or connect with me on LinkedIn.
-- LinkedIn Line--https:www.linkedin.com/in/md-shakib-ullah
+- LinkedIn Line: https:www.linkedin.com/in/md-shakib-ullah
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy reverse engineering complex problems and building tech solutions that make digital transactions safer!
 
